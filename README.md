@@ -1,8 +1,8 @@
 # Different Gulp Versions
 
-##Only Mobile
+## Only Mobile
 > mobile.js
 
-##Latest
+## Latest
 All the lattest edits
 > latest.js
