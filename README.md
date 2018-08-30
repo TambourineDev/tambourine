@@ -1,8 +1,17 @@
 # Different Gulp Versions
 
 ## Only Mobile
+
+For old sites, updating only mobile folder
 > mobile.js
 
 ## Latest
-All the lattest edits
+
+Latest version in symphony-template-v4
 > latest.js
+
+## Tasks
+
+Hardcoded tasks... you can perfom multiple edits
+> tasks.js
+ 
