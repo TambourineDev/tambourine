@@ -1,17 +1,11 @@
-# Different Gulp Versions
+# Tambourine
 
-## Only Mobile
+## Gulp
 
-For old sites, updating only mobile folder
-> mobile.js
+Different Gulp Versions
+> gulp branch
 
-## Latest
+## Code Snippets
 
-Latest version in symphony-template-v4
-> latest.js
-
-## Tasks
-
-Hardcoded tasks... you can perfom multiple edits
-> tasks.js
- 
+Code snippets used in js and sass
+> snippets branch
