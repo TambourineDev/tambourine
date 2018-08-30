@@ -12,6 +12,6 @@ Latest version in symphony-template-v4
 
 ## Tasks
 
-Hardcoded tasks... you can perfom multiple edits
+Hardcoded tasks... editable.
 > tasks.js
  

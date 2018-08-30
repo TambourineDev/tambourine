@@ -1,16 +1,17 @@
-const gulp = require('gulp'),
-    sass = require('gulp-ruby-sass'),
-    autoprefixer = require('gulp-autoprefixer'),
-    concat = require('gulp-concat'),
-    uglify = require('gulp-uglify'),
-    notify = require('gulp-notify'),
-    replace = require('gulp-replace'),
-    plumber = require('gulp-plumber'),
-    livereload = require('gulp-livereload'),
-    maps = require('gulp-sourcemaps'),
-    browserSync = require('browser-sync'),
-    del = require('del'),
-    babel = require('gulp-babel');
+const
+gulp = require('gulp'),
+sass = require('gulp-ruby-sass'),
+autoprefixer = require('gulp-autoprefixer'),
+concat = require('gulp-concat'),
+uglify = require('gulp-uglify'),
+notify = require('gulp-notify'),
+replace = require('gulp-replace'),
+plumber = require('gulp-plumber'),
+livereload = require('gulp-livereload'),
+maps = require('gulp-sourcemaps'),
+browserSync = require('browser-sync'),
+del = require('del'),
+babel = require('gulp-babel');
 
 
 //Process all SASS files and output compressed style.css
